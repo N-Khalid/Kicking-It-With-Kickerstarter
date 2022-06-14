@@ -5,4 +5,4 @@ Performing analysis of Kickstarter data to uncover trends
 ![Kickstarter Analysis PNG Stacked Column](https://user-images.githubusercontent.com/103234661/173573546-ae5e6d64-c28d-4c3a-b98b-b927c6ea9675.png)
 
 # Recommendations
-- Launch Kickstarter campaigns in May as it has the highest success rate of meeting the target goal.
+- Launch Kickstarter campaigns in May as it has the highest success rate of meeting the target goal. 
